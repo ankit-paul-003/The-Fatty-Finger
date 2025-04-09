@@ -1,0 +1,5 @@
+to run this:
+1) Run XAMPP
+2) go to the main folder that is The Fatty Finger location
+3) run: node index.js
+4) open browser visit localhost:8000
